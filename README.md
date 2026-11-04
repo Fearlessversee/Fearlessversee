@@ -82,10 +82,10 @@
 
 > Driving technical vision, distributed architecture, and autonomous product execution at **[Taliyo Technologies](https://github.com/Fearlessversee)**:
 >
-> 🔹 **TaliyoOS** — High-throughput distributed workplace operating software.  
-> 🔹 **Taliyo Universal CRM Platform** — Omni-channel client relationship and enterprise pipeline management.  
-> 🔹 **Taliyo Smart AI Agent Engine** — Autonomous intelligence swarms executing verified production workflows.  
-> 🔹 **Taliyo Enterprise Cloud** — Resilient microservice backbones and containerized telemetry pipelines.
+> 🔹 **[Enterprise Admin Portal](https://github.com/Fearlessversee/admin-portal)** — Central workplace operations & system administration dashboard.  
+> 🔹 **[PHP Enterprise CRM Engine](https://github.com/Fearlessversee/php-enterprise-crm-engine)** — Omni-channel client relationship and enterprise pipeline management platform.  
+> 🔹 **[Taliyo Smart AI Agent Engine](https://github.com/Fearlessversee/taliyo-smart-ai-agent-engine)** — Autonomous intelligence swarms executing verified production workflows.  
+> 🔹 **[Taliyo Systems Store](https://github.com/Fearlessversee/taliyo-systems-store)** — High-performance developer hardware and infrastructure storefront.
 
 <br/>
 
