@@ -50,7 +50,7 @@
     <!-- Bento Box 2: Verified Live System Telemetry (Local SVG) -->
     <td width="50%" valign="top" align="center">
       <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 10px;">
-        <img src="assets/executive-metrics.svg" width="100%" alt="Executive System Metrics" />
+        <img src="https://raw.githubusercontent.com/Fearlessversee/Fearlessversee/main/assets/executive-metrics.svg" width="100%" alt="Executive System Metrics" />
       </div>
     </td>
   </tr>
@@ -92,7 +92,7 @@
 <!-- VISUAL TIMELINE: 4-Year Technical Evolution (2022-2026) -->
 <!-- ======================================================= -->
 <p align="center">
-  <img src="assets/evolution-timeline.svg" width="100%" alt="4-Year Progression Timeline" />
+  <img src="https://raw.githubusercontent.com/Fearlessversee/Fearlessversee/main/assets/evolution-timeline.svg" width="100%" alt="4-Year Progression Timeline" />
 </p>
 
 <br/>
