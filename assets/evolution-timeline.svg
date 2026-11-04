@@ -1,0 +1,65 @@
+<svg width="960" height="210" viewBox="0 0 960 210" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0.5" y="0.5" width="959" height="209" rx="14" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
+  
+  <text x="30" y="38" fill="#00F2FE" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="700" letter-spacing="0.5">
+    🗺️ 4-YEAR PROGRESSION ARCHITECTURE (2022 — 2026)
+  </text>
+  <text x="930" y="38" text-anchor="end" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="500">
+    SYSTEMS MATURITY MATRIX
+  </text>
+
+  <!-- Step 1: 2022 -->
+  <g transform="translate(30, 60)">
+    <rect width="168" height="120" rx="10" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+    <rect x="14" y="14" width="46" height="20" rx="5" fill="#388BFD" fill-opacity="0.15"/>
+    <text x="37" y="28" text-anchor="middle" fill="#58A6FF" font-family="sans-serif" font-size="11" font-weight="700">2022</text>
+    <text x="14" y="52" fill="#FFFFFF" font-family="sans-serif" font-size="13" font-weight="700">Foundations</text>
+    <text x="14" y="70" fill="#8B949E" font-family="sans-serif" font-size="11" font-weight="500">Vanilla JS &amp; DOM</text>
+    <text x="14" y="86" fill="#8B949E" font-family="sans-serif" font-size="11" font-weight="500">HTML5 Canvas 2D</text>
+    <text x="14" y="102" fill="#8B949E" font-family="sans-serif" font-size="11" font-weight="500">Algorithms &amp; Core</text>
+  </g>
+
+  <!-- Step 2: 2023 -->
+  <g transform="translate(216, 60)">
+    <rect width="168" height="120" rx="10" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+    <rect x="14" y="14" width="46" height="20" rx="5" fill="#A371F7" fill-opacity="0.15"/>
+    <text x="37" y="28" text-anchor="middle" fill="#BC8CFF" font-family="sans-serif" font-size="11" font-weight="700">2023</text>
+    <text x="14" y="52" fill="#FFFFFF" font-family="sans-serif" font-size="13" font-weight="700">Enterprise Backend</text>
+    <text x="14" y="70" fill="#8B949E" font-family="sans-serif" font-size="11" font-weight="500">PHP 8.3 MVC Engine</text>
+    <text x="14" y="86" fill="#8B949E" font-family="sans-serif" font-size="11" font-weight="500">MySQL Relational</text>
+    <text x="14" y="102" fill="#8B949E" font-family="sans-serif" font-size="11" font-weight="500">RESTful Core APIs</text>
+  </g>
+
+  <!-- Step 3: 2024 -->
+  <g transform="translate(402, 60)">
+    <rect width="168" height="120" rx="10" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+    <rect x="14" y="14" width="46" height="20" rx="5" fill="#3FB950" fill-opacity="0.15"/>
+    <text x="37" y="28" text-anchor="middle" fill="#3FB950" font-family="sans-serif" font-size="11" font-weight="700">2024</text>
+    <text x="14" y="52" fill="#FFFFFF" font-family="sans-serif" font-size="13" font-weight="700">Modern Full-Stack</text>
+    <text x="14" y="70" fill="#8B949E" font-family="sans-serif" font-size="11" font-weight="500">React 19 &amp; Next.js</text>
+    <text x="14" y="86" fill="#8B949E" font-family="sans-serif" font-size="11" font-weight="500">TypeScript &amp; Vite</text>
+    <text x="14" y="102" fill="#8B949E" font-family="sans-serif" font-size="11" font-weight="500">Tailwind Design Sys</text>
+  </g>
+
+  <!-- Step 4: 2025 -->
+  <g transform="translate(588, 60)">
+    <rect width="168" height="120" rx="10" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+    <rect x="14" y="14" width="46" height="20" rx="5" fill="#D29922" fill-opacity="0.15"/>
+    <text x="37" y="28" text-anchor="middle" fill="#E3B341" font-family="sans-serif" font-size="11" font-weight="700">2025</text>
+    <text x="14" y="52" fill="#FFFFFF" font-family="sans-serif" font-size="13" font-weight="700">Creative Graphics</text>
+    <text x="14" y="70" fill="#8B949E" font-family="sans-serif" font-size="11" font-weight="500">GSAP 3 Timelines</text>
+    <text x="14" y="86" fill="#8B949E" font-family="sans-serif" font-size="11" font-weight="500">Three.js &amp; WebGL</text>
+    <text x="14" y="102" fill="#8B949E" font-family="sans-serif" font-size="11" font-weight="500">Physics &amp; Shaders</text>
+  </g>
+
+  <!-- Step 5: 2026 -->
+  <g transform="translate(774, 60)">
+    <rect width="156" height="120" rx="10" fill="#161B22" stroke="#00F2FE" stroke-width="1.5"/>
+    <rect x="14" y="14" width="46" height="20" rx="5" fill="#00F2FE" fill-opacity="0.15"/>
+    <text x="37" y="28" text-anchor="middle" fill="#00F2FE" font-family="sans-serif" font-size="11" font-weight="800">2026</text>
+    <text x="14" y="52" fill="#00F2FE" font-family="sans-serif" font-size="13" font-weight="700">Autonomous &amp; Kernel</text>
+    <text x="14" y="70" fill="#C9D1D9" font-family="sans-serif" font-size="11" font-weight="500">Anthropic MCP Agents</text>
+    <text x="14" y="86" fill="#C9D1D9" font-family="sans-serif" font-size="11" font-weight="500">C++20 Zero-Latency</text>
+    <text x="14" y="102" fill="#C9D1D9" font-family="sans-serif" font-size="11" font-weight="500">Swarm Orchestration</text>
+  </g>
+</svg>

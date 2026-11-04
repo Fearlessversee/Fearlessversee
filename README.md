@@ -1,156 +1,196 @@
-<div align="center">
+<!-- ======================================================= -->
+<!-- HEADER BANNER: Capsule Render Wave Gradient             -->
+<!-- ======================================================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0,2,3&height=220&section=header&text=Viraj%20Srivastav&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Lead%20Systems%20Engineer%20%7C%20Autonomous%20AI%20Architect&descAlignY=62&descAlign=50" width="100%" alt="Viraj Srivastav Header" />
+</p>
 
-# ⚡ Viraj Srivastav
-### **Lead Systems Engineer & Autonomous AI Architect**
-#### Founder / Technical Lead at **[Taliyo Technologies](https://github.com/Fearlessversee)**
+<!-- ======================================================= -->
+<!-- TYPING SVG: Dynamic Subtitle & Positioning               -->
+<!-- ======================================================= -->
+<p align="center">
+  <a href="https://github.com/Fearlessversee">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=780&lines=Full-Stack+Systems+Engineer+%26+Autonomous+AI+Architect;Lead+Architect+at+Taliyo+Technologies;Specializing+in+Sub-Microsecond+Systems+%26+MCP+Agent+Swarms;4-Year+Verified+Engineering+Cadence+(2022%E2%80%942026)" alt="Typing Subtitle" />
+  </a>
+</p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Fearlessversee&color=00f2fe&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Fearlessversee)
-[![GitHub Followers](https://img.shields.io/github/followers/Fearlessversee?label=Followers&style=for-the-badge&color=4facfe)](https://github.com/Fearlessversee)
-[![Total Contributions](https://img.shields.io/badge/Total%20Contributions-9%2C500%2B-00c853?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Fearlessversee)
-[![Engineering Streak](https://img.shields.io/badge/Production%20Active-2022%20--%202026-6c5ce7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fearlessversee)
+<!-- ======================================================= -->
+<!-- QUICK BADGES / VERIFICATION ROW                         -->
+<!-- ======================================================= -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Fearlessversee&color=00f2fe&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Total%20Contributions-9%2C500%2B-00c853?style=for-the-badge&logo=git&logoColor=white" alt="Contributions" />
+  <img src="https://img.shields.io/badge/Production%20Cadence-2022%20--%202026-6c5ce7?style=for-the-badge&logo=github&logoColor=white" alt="Active Cadence" />
+  <img src="https://img.shields.io/badge/Organization-Taliyo%20Technologies-4facfe?style=for-the-badge&logo=target&logoColor=white" alt="Company" />
+</p>
 
----
+<br/>
 
-```typescript
-const engineer: SeniorArchitect = {
-  name: "Viraj Srivastav",
-  role: "Full-Stack Systems Engineer & Autonomous AI Architect",
-  organization: "Taliyo Technologies",
-  focusAreas: [
-    "Sub-Microsecond Cyber Defense & Kernel Networking",
-    "Model Context Protocol (MCP) & Autonomous AI Agent Swarms",
-    "High-Concurrency Distributed Microservices & Real-Time Engines",
-    "Interactive 3D / WebGL / Physics-Driven Creative Engineering",
-    "Enterprise Cloud Portals & Full-Stack Application Platforms"
-  ],
-  operationalEpoch: "2022 ➔ 2026 (50 Continuous Months of Active Engineering)",
-  verifiedContributions: 9552,
-  availability: "Available for Strategic Architecture Advisory & Enterprise Engineering"
-};
-```
+<!-- ======================================================= -->
+<!-- BENTO GRID SECTION: Row 1 (Bio & Verified Metrics)     -->
+<!-- ======================================================= -->
+<table align="center" width="100%" border="0" cellSpacing="10" cellPadding="0">
+  <tr>
+    <!-- Bento Box 1: Executive Mission & Core Identity -->
+    <td width="50%" valign="top">
+      <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 22px;">
+        <h3 style="margin-top: 0; color: #00f2fe;">⚡ Executive Architectural Overview</h3>
+        <p>I build <b>high-throughput distributed platforms</b>, <b>kernel-grade security engines</b>, and <b>autonomous AI agent networks</b> driving core infrastructure at <b><a href="https://github.com/Fearlessversee">Taliyo Technologies</a></b>.</p>
+        <ul style="padding-left: 20px; line-height: 1.8;">
+          <li>🔬 <b>Low-Latency Systems:</b> Sub-microsecond packet analysis, zero-copy buffers in <code>C++20</code>.</li>
+          <li>🤖 <b>Autonomous Agent Swarms:</b> Anthropic <code>Model Context Protocol (MCP)</code> & multi-agent mesh.</li>
+          <li>🚀 <b>Modern Web Ecosystems:</b> Distributed SaaS platforms, <code>React 19</code>, <code>Next.js 16</code>, <code>TypeScript</code>.</li>
+          <li>🏛️ <b>Backend & Databases:</b> Enterprise <code>PHP 8.3 MVC</code>, <code>MySQL</code>, <code>FastAPI</code>, <code>Redis</code>.</li>
+          <li>✨ <b>Creative Graphics:</b> Real-time <code>WebGL</code>, <code>GLSL Shaders</code>, and <code>Three.js</code> simulations.</li>
+        </ul>
+        <p>📫 <i>Available for strategic architecture advisory & high-scale enterprise engineering.</i></p>
+      </div>
+    </td>
 
----
+    <!-- Bento Box 2: Verified Live System Telemetry (Local SVG) -->
+    <td width="50%" valign="top" align="center">
+      <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 10px;">
+        <img src="assets/executive-metrics.svg" width="100%" alt="Executive System Metrics" />
+      </div>
+    </td>
+  </tr>
 
+  <!-- ======================================================= -->
+  <!-- BENTO GRID SECTION: Row 2 (Tech Arsenal & Streak Card) -->
+  <!-- ======================================================= -->
+  <tr>
+    <!-- Bento Box 3: Production Tech Stack (SkillIcons) -->
+    <td width="50%" valign="top">
+      <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 22px;">
+        <h3 style="margin-top: 0; color: #58a6ff;">🛠️ Production Technology Arsenal</h3>
+        <p style="color: #8b949e; font-size: 13px; margin-bottom: 12px;">Core languages, frameworks, cloud infrastructure & creative engines:</p>
+        
+        <p align="center">
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,rust,php,react,nextjs,tailwind,redux,nodejs,fastapi,docker,postgres,mysql,redis,git,linux,threejs,figma" alt="Tech Stack Icons" />
+          </a>
+        </p>
+
+        <p style="color: #8b949e; font-size: 12px; margin-top: 14px; text-align: center;">
+          <code>TypeScript</code> • <code>C++20</code> • <code>Python</code> • <code>PHP 8.3</code> • <code>React 19</code> • <code>Next.js 16</code> • <code>Docker</code> • <code>MCP</code>
+        </p>
+      </div>
+    </td>
+
+    <!-- Bento Box 4: Continuous Streak & Activity -->
+    <td width="50%" valign="top" align="center">
+      <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 10px;">
+        <img src="https://streak-stats.demolab.com/?user=Fearlessversee&theme=tokyonight&hide_border=true&background=0D1117&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE" width="100%" alt="Contribution Streak" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ======================================================= -->
+<!-- VISUAL TIMELINE: 4-Year Technical Evolution (2022-2026) -->
+<!-- ======================================================= -->
+<p align="center">
+  <img src="assets/evolution-timeline.svg" width="100%" alt="4-Year Progression Timeline" />
+</p>
+
+<br/>
+
+<!-- ======================================================= -->
+<!-- FLAGSHIP ARCHITECTURAL REPOSITORIES SHOWCASE            -->
+<!-- ======================================================= -->
+<h2 align="center" style="color: #00f2fe;">🚀 Flagship Systems & Architectures</h2>
+<p align="center" style="color: #8b949e; margin-top: -6px; margin-bottom: 20px;">
+  Selected open-source systems engineered across low-latency security, autonomous AI, and high-frequency platforms:
+</p>
+
+<table align="center" width="100%" border="0" cellSpacing="0" cellPadding="8">
+  <thead>
+    <tr style="background-color: #161b22; color: #58a6ff; text-align: left; border-bottom: 2px solid #30363d;">
+      <th width="32%">Repository & Domain</th>
+      <th width="24%">Technology Stack</th>
+      <th width="44%">Architectural Highlights</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="border-bottom: 1px solid #21262d;">
+      <td>
+        <b><a href="https://github.com/Fearlessversee/sub-microsecond-cyber-defense-appliance">🛡️ sub-microsecond-cyber-defense-appliance</a></b><br/>
+        <sub style="color: #8b949e;">Low-Latency Security Appliance</sub>
+      </td>
+      <td><code>C++20</code> <code>RingBuffer</code> <code>SIMD</code></td>
+      <td>Sub-microsecond malicious packet filtering, kernel-bypass state machines, and hardware-accelerated defense.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid #21262d;">
+      <td>
+        <b><a href="https://github.com/Fearlessversee/autonomous-ai-ops-command-center">🤖 autonomous-ai-ops-command-center</a></b><br/>
+        <sub style="color: #8b949e;">Agentic AI & Swarm DevOps</sub>
+      </td>
+      <td><code>MCP</code> <code>FastAPI</code> <code>Docker</code></td>
+      <td>Multi-agent autonomous operations center orchestrating self-healing clusters and automated CI/CD diagnostics.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid #21262d;">
+      <td>
+        <b><a href="https://github.com/Fearlessversee/react-enterprise-analytics-suite">📊 react-enterprise-analytics-suite</a></b><br/>
+        <sub style="color: #8b949e;">Fullstack Business Intelligence</sub>
+      </td>
+      <td><code>React 19</code> <code>TypeScript</code> <code>Tailwind</code></td>
+      <td>High-frequency telemetry platform featuring sub-millisecond chart re-renders and enterprise metrics aggregation.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid #21262d;">
+      <td>
+        <b><a href="https://github.com/Fearlessversee/php-enterprise-crm-engine">💼 php-enterprise-crm-engine</a></b><br/>
+        <sub style="color: #8b949e;">Enterprise Relational Core</sub>
+      </td>
+      <td><code>PHP 8.3 MVC</code> <code>MySQL</code> <code>REST</code></td>
+      <td>Transaction-safe enterprise CRM engine managing lead pipelines, financial analytics, and automated invoicing.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid #21262d;">
+      <td>
+        <b><a href="https://github.com/Fearlessversee/webgl-fluid-simulation-engine">🌊 webgl-fluid-simulation-engine</a></b><br/>
+        <sub style="color: #8b949e;">GPU Computational Physics</sub>
+      </td>
+      <td><code>WebGL</code> <code>GLSL</code> <code>Navier-Stokes</code></td>
+      <td>GPU-accelerated Navier-Stokes fluid dynamics simulation running at 120 FPS via customized fragment shaders.</td>
+    </tr>
+    <tr style="border-bottom: 1px solid #21262d;">
+      <td>
+        <b><a href="https://github.com/Fearlessversee/curated-awesome-mcp-registry">🔌 curated-awesome-mcp-registry</a></b><br/>
+        <sub style="color: #8b949e;">AI Protocol Ecosystem</sub>
+      </td>
+      <td><code>Model Context Protocol</code> <code>Docs</code></td>
+      <td>Definitive production registry and architectural catalog for Anthropic Model Context Protocol (MCP) servers.</td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+
+<!-- ======================================================= -->
+<!-- ENTERPRISE ORGANIZATION: Taliyo Technologies            -->
+<!-- ======================================================= -->
+<div align="center" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 20px;">
+  <h3 style="margin-top: 0; color: #4facfe;">🏢 Core Enterprise Operations at Taliyo Technologies</h3>
+  <p style="max-width: 800px; color: #c9d1d9; line-height: 1.6;">
+    Architecting next-generation distributed software, AI agent swarms, and high-performance business applications:
+  </p>
+  <p>
+    <b>TaliyoOS</b> &bull; <b>Taliyo Universal CRM</b> &bull; <b>Taliyo Smart AI Agent Engine</b> &bull; <b>Taliyo Enterprise Cloud</b>
+  </p>
 </div>
 
-## 📊 Live System Analytics & Verified Metrics
+<br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fearlessversee&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&title_color=00f2fe&icon_color=4facfe&text_color=c8d6e5&bg_color=0f141c" width="48.5%" alt="Viraj's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fearlessversee&layout=compact&theme=tokyonight&hide_border=true&title_color=00f2fe&text_color=c8d6e5&bg_color=0f141c" width="48.5%" alt="Top Languages" />
-</div>
+<!-- ======================================================= -->
+<!-- FOOTER & CONNECT                                       -->
+<!-- ======================================================= -->
+<p align="center">
+  <a href="https://github.com/Fearlessversee"><img src="https://img.shields.io/badge/GitHub-Fearlessversee-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/Fearlessversee"><img src="https://img.shields.io/badge/Company-Taliyo_Technologies-0052CC?style=for-the-badge&logo=target&logoColor=white" alt="Taliyo" /></a>
+  <a href="mailto:virajsrivastav016@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Architect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fearlessversee&theme=tokyonight&hide_border=true&stroke=00f2fe&background=0f141c&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe" width="98%" alt="GitHub Streak" />
-</div>
-
----
-
-## 🗺️ 4-Year Technical Evolution & Engineering Architecture (2022 – 2026)
-
-From bare-metal algorithmic logic and relational database engines to sub-microsecond kernel defense appliances and autonomous multi-agent MCP networks:
-
-```
-┌────────────────────────────────────────────────────────────────────────────────────────────────┐
-│  2022: Foundational Web Standards & Algorithmic Systems                                        │
-│  ├─ HTML5, CSS3 Grid/Flexbox, Vanilla ES6+, Canvas 2D API, DOM Virtualization                  │
-│  └─ Algorithmic data structures, asynchronous event loops, clean modular utility libraries     │
-├────────────────────────────────────────────────────────────────────────────────────────────────┤
-│  2023: Enterprise Backends, Relational Engines & Distributed Web                               │
-│  ├─ PHP 8.x MVC Architecture, MySQL InnoDB Optimization, RESTful Micro-Services                │
-│  └─ Scalable CRM architectures, e-commerce transaction engines, session & auth protocols       │
-├────────────────────────────────────────────────────────────────────────────────────────────────┤
-│  2024: Modern Reactive Full-Stack & Cloud Production Applications                              │
-│  ├─ React 18/19, Next.js App Router, TypeScript, Vite, Tailwind CSS, Redux Toolkit             │
-│  └─ High-throughput SaaS dashboards, real-time analytics pipelines, enterprise design systems  │
-├────────────────────────────────────────────────────────────────────────────────────────────────┤
-│  2025: High-Performance Creative Computing, Shaders & Motion Dynamics                          │
-│  ├─ GSAP 3 Timelines, Three.js, WebGL GLSL Shaders, Navier-Stokes Fluid Simulations            │
-│  └─ Physics-based interactive interfaces, kinetic typography engines, 3D spatial viewports     │
-├────────────────────────────────────────────────────────────────────────────────────────────────┤
-│  2026: Autonomous Intelligence, MCP Agents & Kernel-Grade Architecture                         │
-│  ├─ Model Context Protocol (MCP) Server Infrastructure, Multi-Agent Swarms, FastAPI, PyTorch   │
-│  └─ C++20 Zero-Latency Threat Analyzers, Sub-Microsecond Packet Processing, Distributed Mesh   │
-└────────────────────────────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 🛠️ Technology Stack & Architecture Arsenal
-
-### **Core Languages & Systems**
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++20](https://img.shields.io/badge/C%2B%2B20-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black)
-![PHP 8](https://img.shields.io/badge/PHP_8.3-777BB4?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### **Frameworks & Frontend Platforms**
-![React 19](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js 16](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite_6-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-### **Motion, Creative Computing & Graphics**
-![GSAP 3](https://img.shields.io/badge/GSAP_3-88CE02?style=flat-square&logo=greensock&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL_2.0-990000?style=flat-square&logo=webgl&logoColor=white)
-![GLSL](https://img.shields.io/badge/GLSL_Shaders-5586A4?style=flat-square&logo=opengl&logoColor=white)
-![Canvas 2D](https://img.shields.io/badge/Canvas_API-FF6F00?style=flat-square&logo=html5&logoColor=white)
-
-### **AI Agents & Autonomous Systems**
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-4B32C3?style=flat-square&logo=anthropic&logoColor=white)
-![Anthropic Claude SDK](https://img.shields.io/badge/Claude_3.5_SDK-D97706?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
-
-### **Databases & Infrastructure**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL 8](https://img.shields.io/badge/MySQL_8-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux_POSIX-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-## 🚀 Flagship Architectural Repositories
-
-| Repository | Domain | Tech Stack | Highlights |
-| :--- | :--- | :--- | :--- |
-| **[`sub-microsecond-cyber-defense-appliance`](https://github.com/Fearlessversee/sub-microsecond-cyber-defense-appliance)** | Low-Latency Security | `C++20`, `Zero-Copy RingBuffer`, `SIMD` | Sub-microsecond malicious packet filtering, kernel-bypass state machines, and real-time network defense. |
-| **[`autonomous-ai-ops-command-center`](https://github.com/Fearlessversee/autonomous-ai-ops-command-center)** | Agentic AI & DevOps | `MCP`, `FastAPI`, `Python`, `Docker` | Multi-agent autonomous operations center orchestrating self-healing cloud clusters and CI/CD pipelines. |
-| **[`react-enterprise-analytics-suite`](https://github.com/Fearlessversee/react-enterprise-analytics-suite)** | Fullstack BI Platform | `React 19`, `TypeScript`, `TailwindCSS` | High-frequency data visualization suite with sub-millisecond chart re-renders and telemetry dashboards. |
-| **[`php-enterprise-crm-engine`](https://github.com/Fearlessversee/php-enterprise-crm-engine)** | Enterprise CRM Core | `PHP 8 MVC`, `MySQL`, `REST API` | Transaction-safe enterprise CRM engine managing lead pipelines, customer intelligence, and automated invoicing. |
-| **[`webgl-fluid-simulation-engine`](https://github.com/Fearlessversee/webgl-fluid-simulation-engine)** | Computational Graphics | `WebGL`, `GLSL`, `Navier-Stokes`, `JS` | GPU-accelerated real-time fluid dynamics simulation engine running at 120 FPS via fragment shaders. |
-| **[`curated-awesome-mcp-registry`](https://github.com/Fearlessversee/curated-awesome-mcp-registry)** | AI Infrastructure | `Model Context Protocol`, `Markdown`, `Docs` | Definitive production registry and architectural catalog for Anthropic Model Context Protocol (MCP) servers. |
-
----
-
-## 🏢 Enterprise Operations & Taliyo Technologies
-
-Currently driving technical vision, core architecture, and high-performance product execution at **Taliyo Technologies**:
-- **TaliyoOS Ecosystem**: High-throughput distributed workplace operating software.
-- **Taliyo Universal CRM Platform**: Omni-channel client relationship and enterprise management suite.
-- **Taliyo Smart AI Agent Engine**: Autonomous enterprise intelligence swarms delivering verified workflow execution.
-
----
-
-## 📬 Connect & Collaborate
-
-- 💼 **Company**: [Taliyo Technologies](https://github.com/Fearlessversee)
-- 🌐 **GitHub**: [@Fearlessversee](https://github.com/Fearlessversee)
-- 📍 **Location**: India
-- ⚡ **Status**: Active Engineering & High-Scale Systems Architecture
-
-<div align="center">
-  <sub>Engineered with precision. All systems operational.</sub>
-</div>
+<p align="center" style="color: #6e7681; font-size: 12px;">
+  <i>Engineered with precision. 9,568+ Verified Contributions across 50 continuous months (2022—2026).</i>
+</p>
